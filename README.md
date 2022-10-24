@@ -1,4 +1,10 @@
 # hotel-guests
+# RESTful Endpoints
+- GET http://localhost:8080/api/reservations
+- GET http://localhost:8080/api/guests
+- GET http://localhost:8080/api/rooms
+- POST http://localhost:8080/api/guests
+- 
 
 # CLI: git new branch
 - git checkout -b "new-branch"
