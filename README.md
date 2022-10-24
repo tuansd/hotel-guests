@@ -1,4 +1,7 @@
 # hotel-guests
+# http://localhost:8080/
+![img.png](img.png)
+
 # RESTful Endpoints
 - GET http://localhost:8080/api/reservations
 - GET http://localhost:8080/api/guests
